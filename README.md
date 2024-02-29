@@ -1,6 +1,6 @@
 **Forest Forecasters**
 
-Welcome to the Forest Forecasters project!
+Welcome to our Forest Forecasters project!
 
 This repository contains the code and documentation for our predictive modeling project focused on predicting customer churn for SwanTeleco, a fictional telecommunications company.
 
