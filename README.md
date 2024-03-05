@@ -1,3 +1,5 @@
+### * This is my copy of our shared files, collaborative repo linked: https://github.com/xRiyaPathak/Forest-Forecasters
+
 # **Swan Consulting Project**
 
 Welcome to our Swan Consulting project, we are Team Forest Forecasters!
